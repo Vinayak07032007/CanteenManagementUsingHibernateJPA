@@ -213,7 +213,7 @@ CREATE TABLE foodorders (
 # 📷 SCREENSHOT
 
 
-![Project](https://github.com/Vinayak07032007/CanteenManagementUsingHibernateJPA/blob/c22fac4df1b637ea33bd8f35e69468232a534390/mymaven/Project2.png)
+![Project](https://github.com/Vinayak07032007/CanteenManagementUsingHibernateJPA/blob/8b58c5dcb64787d3c99961ab973ce745b540eaf1/mymaven/Project2.png)
 ![Project](https://github.com/Vinayak07032007/CanteenManagementUsingHibernateJPA/blob/811db9d7187b288ee54de091fcaf4b0046b2869c/mymaven/Projectop.png)
 =======
 
